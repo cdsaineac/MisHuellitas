@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MisHuellitas/static/css/main.83b5dced.chunk.css",
+    "main.js": "/MisHuellitas/static/js/main.6e2b84e3.chunk.js",
+    "main.js.map": "/MisHuellitas/static/js/main.6e2b84e3.chunk.js.map",
+    "runtime-main.js": "/MisHuellitas/static/js/runtime-main.aa801453.js",
+    "runtime-main.js.map": "/MisHuellitas/static/js/runtime-main.aa801453.js.map",
+    "static/js/2.f0742ee7.chunk.js": "/MisHuellitas/static/js/2.f0742ee7.chunk.js",
+    "static/js/2.f0742ee7.chunk.js.map": "/MisHuellitas/static/js/2.f0742ee7.chunk.js.map",
+    "index.html": "/MisHuellitas/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "/MisHuellitas/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.f0742ee7.chunk.js.LICENSE.txt": "/MisHuellitas/static/js/2.f0742ee7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa801453.js",
+    "static/js/2.f0742ee7.chunk.js",
+    "static/css/main.83b5dced.chunk.css",
+    "static/js/main.6e2b84e3.chunk.js"
+  ]
+}
